@@ -16,5 +16,5 @@
 - Gulp(basic knowledge)
 - BEM
 - JUnit
-- React(learning now)🧠
+- React/Redux(learning now)🧠
 
