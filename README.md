@@ -1,20 +1,18 @@
-- 👋 Hi, I’m Danila
-- 👀 I’m interested in frontend development
-- 🧠 I’m currently learning React
+- 👋 Hi, my name is Danila
+- 👀 I’m interested in frontend development only
 - 🤑 I am open to all suggestions
-- 📫 My e-mail: dannyson5@bk.ru / My telegram: dannyson5
-
-
+- 📫 My e-mail: dannyson5@bk.ru / My telegram: @dannyson5
+- Commercial expirience: 1 year in ecommerce
 
   🤖 My skills: 
+- React, Redux
+- Parcel, Webpack
+- JavaScript / Typescript
+- REST API
+- Sass/Scss, css-modules, Less
 - HTML, CSS
 - Java
-- JavaScript
 - GIT
 - SQL
-- Sass/Scss
-- Gulp(basic knowledge)
 - BEM
-- JUnit
-- React/Redux(learning now)🧠
 
