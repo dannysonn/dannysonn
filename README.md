@@ -2,17 +2,15 @@
 - 👀 I’m interested in frontend development only
 - 🤑 I am open to all suggestions
 - 📫 My e-mail: dannyson5@bk.ru / My telegram: @dannyson5
-- Commercial expirience: 1 year in ecommerce
+- Commercial expirience: 1,7 year in ecommerce
 
   🤖 My skills: 
 - React, Redux
 - Parcel, Webpack
-- JavaScript / Typescript
+- JavaScript / Typescript, JQuery
 - REST API
 - Sass/Scss, css-modules, Less
 - HTML, CSS
-- Java
 - GIT
-- SQL
 - BEM
 
