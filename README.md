@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Danila
-- 👀 I’m interested in frontend development only (for now, later i'll learn backend too)
+- 👀 I’m interested in frontend development
 - 📫 My e-mail: dannyson5@bk.ru / My telegram: @dannyson5
 
   🤖 My skills: 
